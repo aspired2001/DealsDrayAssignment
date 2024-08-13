@@ -1,0 +1,28 @@
+[
+  {
+    "id": "yb4j43ksk",
+    "name": "Ritik",
+    "email": "ritika@gmail.com",
+    "mobileNo": "7920908809",
+    "designation": "HR",
+    "gender": "female",
+    "courses": [
+      "BCA"
+    ],
+    "image": {},
+    "createDate": "2024-08-13T22:31:38.202Z"
+  },
+  {
+    "id": "18a7xfhcb",
+    "name": "Wajahat Ali",
+    "email": "wajhoor2001@gmail.com",
+    "mobileNo": "9820908809",
+    "designation": "Manager",
+    "gender": "female",
+    "courses": [
+      "BCA"
+    ],
+    "image": {},
+    "createDate": "2024-08-13T22:32:45.005Z"
+  }
+]
